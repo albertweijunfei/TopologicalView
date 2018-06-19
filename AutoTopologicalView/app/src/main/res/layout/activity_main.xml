@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrator.autotopologicalview.activity.MainActivity">
+
+    <com.example.administrator.autotopologicalview.widget.AutoTopoView
+        android:id="@+id/AutoTopoView"
+        android:background="#2EC1EF"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></com.example.administrator.autotopologicalview.widget.AutoTopoView>
+
+</RelativeLayout>
